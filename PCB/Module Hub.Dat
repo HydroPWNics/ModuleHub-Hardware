@@ -1,0 +1,28 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=VALUE~String~VALUE~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Module Hub.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\HydroPWNicsHardware\Sensor Module Hub\PCB\Module Hub.PrjPcb|ReportField=Title~Bill of Materials For Project [Module Hub.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~12:51:56 AM|ReportField=ReportDate~6/22/2015|ReportField=ReportDateTime~6/22/2015 12:51:56 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~6/21/2015|ReportField=CurrentTime~12:52:33 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\HydroPWNicsHardware\Sensor Module Hub\PCB\Module Hub.SchDoc|ReportField=DocumentName~Module Hub.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/5/2015|ReportField=Organization~|ReportField=ProjectName~Module Hub.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Module Hub.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\HydroPWNicsHardware\Sensor Module Hub\PCB\Module Hub.PrjPcb
+100nF|CAP CER 0603 100nF 50V 10% X7R|C1, C2, C3, C4, C16, C18|C0603|C0603C104K5RACTU|6|100nF
+0603|CAP CER 10UF 6.3V 10% JB 0603|C5, C11, C19|C0603|C1608JB0J106K080AB|3|10uF 6.3VDC, 10uF, 10uF 6.3VDC
+EEE-1VA101XP|CAP ALUM 100UF 35V 20% SMD|C6, C7, C8|EEE-1VA101XP|EEE-1VA101XP|3|100uF
+10uF 50V|CAP CER 10UF 50V 10% X5R 1206|C9, C12|C1206|CL31A106KBHNNNE|2|10uF 50V
+0603|CAP CER 22UF 6.3V 10% X5R 0805|C10, C13|C0805|CL21A226KQQNNNE|2|22uF
+100nF|CAP CER 0402 100nF 16V 10% X7R|C14, C15|C0402|GRM155R71C104KA88D|2|100nF
+5988140107F|LED 0805 Yellow|D2, D3|LED2012120|5988140107F|2|5988140107F
+PESDxL2BT|PESDxL2BT TVS Diode Array 2x|DA1, DA2, DA3|SOT95P230X110-3N|PESDxL2BT|3|
+BLM15HG601SN1D|BLM15HG601SN1D|FB1|BLM18PG121SN1D|BLM15HG601SN1D|1|
+M3 Hole|3mm Hole|H1, H2, H3|Hole-3mm|Hole|3|
+FTSH-105-XX-X-DV||J1|FTSH-105-XX-X-DV|ARM Cortex JTAG-DEBUG Header|1|
+VLS252012T-2R2M1R3|VLS252012T-2R2M1R3|L1, L2|VLS252012T-2R2M1R3|VLS252012T-2R2M1R3|2|2.2uH
+Header 4|Header, 4-Pin|P1, P2, P6|HDR1X4|Header 4|3|
+Molex - 0705430006|0705530041|P3|0705530041|0705530041|1|
+Header 2|Header, 2-Pin|P4, P5, P7|HDR1X2|Header 2|3|
+CNCTech 3020-10-0100-00|CNCTech 3020-10-0100-00|P10, P11, P13|3020-10-0100-00|3020-10-0100-00|3|
+Header 6|Header, 6-Pin|P12|HDR1X6|Header 6|1|
+Molex 0705530001|Molex 0705530002 Right Angle 2.54mm Shrouded Header|P14|0705530001|0705530001|1|
+Header 3|Header, 3-Pin|P15|HDR1X3|Header 3|1|
+100K|RES 100K OHM 1/10W 1% 0603 SMD|R1, R2|R0603|RC0603FR-07100KL|2|100K
+1K|RES 0603 1K 100mW 1%|R3, R4, R5, R13, R14|R0603|ERJ-3EKF1001V|5|1K
+TL3301AF160QG|TL3301AF160QG|SW1|TL3301AF160QG|TL3301AF160QG|1|
+MKV10Z16VFM7 - 32 Pin QFN 5X5|IC MCU ARM Cortex M0+ 16KB 32QFN 75MHZ|U1|MKV10Z16VFM7|MKV10Z16VFM7|1|
+TXS0104E|TXS0104E - Bidriectional Opendrain/pushpull level shift|U2|RGY  (S-PVQFN-N14)|TXS0104E|1|
+74HC4052|Dual 4-channel analog multiplexer/demultiplexer|U3|74HC4052|74HC4052|1|
+ESP-12E|Sketchy Chinese ESP8266 Board with Fake FCC Bullshit|U4|ESP8266 ESP-12E|ESP-12|1|
+TPS62162DSG, TPS62163DSG||U5, U6|DSG8-1600X900TP|TPS62162SOP|2|
